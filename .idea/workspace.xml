@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be98e24-ac42-49e0-b960-939b3551fbbc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/catImg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/popBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/progressBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/progressColor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/shareBtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/topIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RedPacketRain.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/rain.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/rain.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/rain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/rain.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/rainPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/rainPage.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,8 +31,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="152">
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -156,7 +140,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="11" />
+    <option name="y" value="54" />
     <option name="width" value="1280" />
     <option name="height" value="724" />
   </component>
@@ -270,18 +255,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507376822984</updated>
-      <workItem from="1507376824246" duration="3084000" />
+      <workItem from="1507376824246" duration="4133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3084000" />
+    <option name="totallyTimeSpent" value="4133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <frame x="11" y="54" width="1280" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -378,8 +363,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="152">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>
