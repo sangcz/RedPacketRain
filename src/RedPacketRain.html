@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 ,maximum-scale=1.0, user-scalable=no" >
+    <title>RedPacketRain</title>
+    <link rel="stylesheet" href="./css/rain.min.css">
+</head>
+<body>
+<!--progress start-->
+<div class="progressCon">
+    <div class="progressText">loading . . .</div>
+    <div class="progress">
+        <span id="progressWid" style="width: 40%;"></span>
+    </div>
+</div>
+<!--progress end-->
+<!--header start-->
+<div class="header">
+    <div class="leftBar"><span class="topIcon1"></span>剩余时间: <span id="countDown">15</span> 秒</div>
+    <div class="rightBar"><span class="topIcon2"></span>已获得: <span id="redCount">0</span> 个</div>
+</div>
+<!--header end-->
+<script type="text/javascript">
+	document.getElementById('progressWid').style.width = '40%';
+</script>
+<!--main start-->
+<div id="box"></div>
+<div id="mask"></div>
+<div id="pop">
+    <p class="popFont1">总金额共</p>
+    <p class="popFont2"><span id="allAmount"></span><span class="yuan">元</span></p>
+    <p class="popFont3">您抢到了<span id="redCount1"></span>个红包</p>
+    <div id="shareBtn">分享翻倍</div>
+    <div id="closeBtn"></div>
+</div>
+<!--main end-->
+</body>
+<script type="text/javascript" src="./js/rain.min.js"></script>
+<script type="text/javascript" src="./js/rainPage.min.js"></script>
+<script type="text/javascript">
+	document.getElementById('progressWid').style.width = '100%';
+
+	setTimeout(function(){
+		 document.querySelector('.progressCon').style.display = 'none';
+         rain.ajax({
+             method: 'GET',
+             url: './data.json',
+             success: function (res) {
+                 var data = JSON.parse(res);
+                 rain.start(data);
+             }
+         });
+	}, 1000);
+
+</script>
+</html>
