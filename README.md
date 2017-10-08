@@ -13,7 +13,7 @@
 
 # 使用手机扫码查看效果
 
-![QR Code](http://owl4tkj9p.bkt.clouddn.com/QRCode.png "demo QR Code"){:height="240px" width="240px"}
+<img src="http://owl4tkj9p.bkt.clouddn.com/QRCode.png" width = "50%" height = "50%" alt="QR Code" />
 
 # 主要方法
 
