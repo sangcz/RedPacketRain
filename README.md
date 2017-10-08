@@ -1,9 +1,22 @@
 # RedPacketRain
- ## A red bag to grab a little game
- #### This is a grab red game, no use of additional JS library, pure native JS written simple grab red game
- #### [You can click on this link to see the effect](http://owl4tkj9p.bkt.clouddn.com/demo/demo.html).
+---------------------
+ ## 这是一款H5抢红包小游戏
+ #### 没有依赖任何第三方库，纯原生JS编写
+ #### [点击链接查看效果,使用chrome 手机模式](http://owl4tkj9p.bkt.clouddn.com/demo/demo.html).
 
-#### Use WeChat and mobile browser to see the effect on the mobile terminal
+#### 使用手机扫码查看效果
 ![QR Code](http://owl4tkj9p.bkt.clouddn.com/QRCode.png "demo QR Code")
 
-#### Finally, if you think it's OK, welcome Star, Thank you!
+# 主要方法
+
+
+    methods | options
+    rain.create() |  id(红包ID), amount(红包的金额)
+    rain.start()  |  data(ajax请求返回的数据)
+    rain.stop()   |  无需传参
+    rain.move()   |  rains（红包数组）
+    rain.clear()  |  无需传参
+    rain.ajax()   |  类似jQuery中的$.ajax
+
+# License
+#### MIT
