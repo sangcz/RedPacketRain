@@ -1,23 +1,30 @@
 # RedPacketRain
- ## ÕâÊÇÒ»¿îH5ÇÀºì°üĞ¡ÓÎÏ·
- #### Ã»ÓĞÒÀÀµÈÎºÎµÚÈı·½¿â£¬´¿Ô­ÉúJS±àĞ´
- #### [µã»÷Á´½Ó²é¿´Ğ§¹û,Ê¹ÓÃchrome ÊÖ»úÄ£Ê½](http://owl4tkj9p.bkt.clouddn.com/demo/demo.html).
 
-#### Ê¹ÓÃÊÖ»úÉ¨Âë²é¿´Ğ§¹û
-![QR Code](http://owl4tkj9p.bkt.clouddn.com/QRCode.png=240x240 "demo QR Code")
+ ## è¿™æ˜¯ä¸€æ¬¾H5æŠ¢çº¢åŒ…å°æ¸¸æˆ
+ #### æ²¡æœ‰ä¾èµ–ä»»ä½•ç¬¬ä¸‰æ–¹åº“ï¼Œçº¯åŸç”ŸJSç¼–å†™
+ #### [ç‚¹å‡»é“¾æ¥æŸ¥çœ‹æ•ˆæœ,ä½¿ç”¨chrome æ‰‹æœºæ¨¡å¼](http://owl4tkj9p.bkt.clouddn.com/demo/demo.html).
 
-# Ö÷Òª·½·¨
+# Import using script tag
 
+```HTML
+<script type="text/javascript" src="./js/rain.min.js"></script>
+<script type="text/javascript" src="./js/rainPage.min.js"></script>
+```
 
-    | methods | options |
-    | ------------- |:-------------:|
-    | rain.create() |  id(ºì°üID), amount(ºì°üµÄ½ğ¶î) |
-    | rain.start()  |  data(ajaxÇëÇó·µ»ØµÄÊı¾İ) |
-    | rain.stop()   |  ÎŞĞè´«²Î|
-    | rain.move()   |  rains£¨ºì°üÊı×é£©|
-    | rain.clear()  |  ÎŞĞè´«²Î |
-    | rain.ajax()   |  ÀàËÆjQueryÖĞµÄ$.ajax |
+# ä½¿ç”¨æ‰‹æœºæ‰«ç æŸ¥çœ‹æ•ˆæœ
+
+![QR Code](http://owl4tkj9p.bkt.clouddn.com/QRCode.png "demo QR Code"){:height="240px" width="240px"}
+
+# ä¸»è¦æ–¹æ³•
+
+| Methods | Options |
+| ---- | ----|
+| rain.create() |  id(çº¢åŒ…ID), amount(çº¢åŒ…çš„é‡‘é¢) |
+| rain.start()  |  data(ajaxè¯·æ±‚è¿”å›çš„æ•°æ®) |
+| rain.stop()   |  æ— éœ€ä¼ å‚|
+| rain.move()   |  rainsï¼ˆçº¢åŒ…æ•°ç»„ï¼‰|
+| rain.clear()  |  æ— éœ€ä¼ å‚ |
+| rain.ajax()   |  ç±»ä¼¼jQueryä¸­çš„$.ajax |
     
-
 # License
-#### MIT
+MIT
