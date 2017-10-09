@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be98e24-ac42-49e0-b960-939b3551fbbc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/rain.js" afterPath="$PROJECT_DIR$/src/js/rain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/rain.min.js" afterPath="$PROJECT_DIR$/src/js/rain.min.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RedPacketRain.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RedPacketRain.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RedPacketRain.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="67" />
+            <state relative-caret-position="184">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -28,12 +30,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="283">
-                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <first_editor relative-caret-position="202">
+                <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -64,8 +66,8 @@
       <file leaf-file-name="rain.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/rain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="71" column="39" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="39" />
+            <state relative-caret-position="248">
+              <caret line="129" column="45" lean-forward="true" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
               <folding>
                 <element signature="e#1597#1752#0" expanded="false" />
                 <element signature="e#1795#2689#0" expanded="false" />
@@ -78,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/js/rain.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="2379" lean-forward="false" selection-start-line="0" selection-start-column="2379" selection-end-line="0" selection-end-column="2379" />
+              <caret line="0" column="1810" lean-forward="false" selection-start-line="0" selection-start-column="1810" selection-end-line="0" selection-end-column="1810" />
               <folding />
             </state>
           </provider>
@@ -120,6 +122,7 @@
       <find>box</find>
       <find>#pop .popFont3</find>
       <find>redpacked</find>
+      <find>xmlHttp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,13 +132,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/css/rain.css" />
-        <option value="$PROJECT_DIR$/src/js/rain.js" />
         <option value="$PROJECT_DIR$/src/js/rainPage.js" />
         <option value="$PROJECT_DIR$/src/js/rainPage.min.js" />
-        <option value="$PROJECT_DIR$/src/js/rain.min.js" />
         <option value="$PROJECT_DIR$/src/css/rain.min.css" />
         <option value="$PROJECT_DIR$/src/RedPacketRain.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/js/rain.js" />
+        <option value="$PROJECT_DIR$/src/js/rain.min.js" />
       </list>
     </option>
   </component>
@@ -231,12 +234,13 @@
       <workItem from="1507388859974" duration="56000" />
       <workItem from="1507388942425" duration="55000" />
       <workItem from="1507389025666" duration="19000" />
-      <workItem from="1507447667456" duration="4333000" />
+      <workItem from="1507447667456" duration="6281000" />
+      <workItem from="1507548591224" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9747000" />
+    <option name="totallyTimeSpent" value="11994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="0" />
@@ -276,6 +280,78 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/RedPacketRain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/rain.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="112" column="16" lean-forward="false" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/rain.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2379" lean-forward="false" selection-start-line="0" selection-start-column="2379" selection-end-line="0" selection-end-column="2379" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/rain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="71" column="39" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="39" />
+          <folding>
+            <element signature="e#1597#1752#0" expanded="false" />
+            <element signature="e#1795#2689#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/rainPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/rainPage.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="849" lean-forward="false" selection-start-line="0" selection-start-column="849" selection-end-line="0" selection-end-column="849" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RedPacketRain.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="988">
@@ -572,6 +648,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/rain.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2740" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/rain.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="112" column="16" lean-forward="false" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="202">
+            <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/rainPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -588,33 +696,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/rain.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2740" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2740" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/rain.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="112" column="16" lean-forward="false" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/rain.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2379" lean-forward="false" selection-start-line="0" selection-start-column="2379" selection-end-line="0" selection-end-column="2379" />
+          <caret line="0" column="1810" lean-forward="false" selection-start-line="0" selection-start-column="1810" selection-end-line="0" selection-end-column="1810" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/rain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="71" column="39" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="39" />
+        <state relative-caret-position="248">
+          <caret line="129" column="45" lean-forward="true" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
           <folding>
             <element signature="e#1597#1752#0" expanded="false" />
             <element signature="e#1795#2689#0" expanded="false" />
@@ -624,28 +717,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RedPacketRain.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="67" />
+        <state relative-caret-position="184">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="283">
-            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

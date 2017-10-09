@@ -127,7 +127,7 @@ redPack.prototype.ajax = function(opt) {
         }
         var postData = params.join('&');
         if (opt.method.toUpperCase() === 'POST') {
-            xsssmlHttp.open(opt.method, opt.url, opt.async);
+            xmlHttp.open(opt.method, opt.url, opt.async);
             xmlHttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded;charset=utf-8');
             xmlHttp.send(postData);
         }
