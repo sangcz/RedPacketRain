@@ -59,3 +59,10 @@
         // 添加到dom上
         g('allAmount').innerText = (allAmount).toFixed(2);
     }
+    g('closeBtn').addEventListener('click', function () {
+        closePop();
+    });
+    function closePop() {
+        g('mask').style.display = 'none';
+        g('pop').style.display = 'none';
+    }
