@@ -11,7 +11,7 @@ div,a,img {
 html,body {
     width: 100%;
     height: 100%;
-    background: url('../img/bg.png') no-repeat;
+    background: url('./../img/bg.png') no-repeat;
     background-size: cover;
     overflow: hidden;
 }
@@ -34,7 +34,7 @@ html,body {
 .progress {
     width: 244px;
     height: 14px;
-    background: url("../img/progressBg.png") repeat-x;
+    background: url("./../img/progressBg.png") repeat-x;
     background-size: cover;
     position: absolute;
     top: 50%;
@@ -53,7 +53,7 @@ html,body {
 }
 #progressWid {
     height: 14px;
-    background: url("../img/progressColor.png") repeat-x;
+    background: url("./../img/progressColor.png") repeat-x;
 }
 .header {
     width: 100%;
@@ -74,7 +74,7 @@ html,body {
     display: inline-block;
     width: 24px;
     height: 24px;
-    background: url("../img/topIcon.png") no-repeat;
+    background: url("./../img/topIcon.png") no-repeat;
     background-size: cover;
     margin-left: 22px;
     margin-right: 12px;
@@ -88,7 +88,7 @@ html,body {
     display: inline-block;
     width: 24px;
     height: 24px;
-    background: url("../img/topIcon.png") no-repeat 0 -24px;
+    background: url("./../img/topIcon.png") no-repeat 0 -24px;
     background-size: cover;
     margin-right: 12px;
     margin-left: 60px;
@@ -112,12 +112,12 @@ html,body {
     display: block;
     width: 54px;
     height: 77px;
-    background: url('../img/catImg.png') no-repeat 0 0;
+    background: url('./../img/catImg.png') no-repeat 0 0;
     background-size: cover;
 }
 /*点击后的红包*/
 .redpacked {
-    background: url('../img/catImg.png') no-repeat 0 -77px;
+    background: url('./../img/catImg.png') no-repeat 0 -77px;
     background-size: cover;
 }
 
@@ -139,7 +139,7 @@ html,body {
 #pop {
     width: 240px;
     height: 371px;
-    background: url('../img/popBg.png') no-repeat;
+    background: url('./../img/popBg.png') no-repeat;
     background-size: cover;
     position: absolute;
     top: 50%;
@@ -177,7 +177,7 @@ html,body {
 #shareBtn {
     width: 187px;
     height: 64px;
-    background: url('../img/shareBtn.png') no-repeat;
+    background: url('./../img/shareBtn.png') no-repeat;
     background-size: cover;
     position: relative;
     top: 42%;
