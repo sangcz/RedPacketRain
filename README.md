@@ -2,6 +2,10 @@
 
  ## 这是一款H5抢红包小游戏
  #### 没有依赖任何第三方库，纯原生JS编写
+ #### 页面截图
+  
+ ![](https://user-gold-cdn.xitu.io/2018/5/24/1639115037cc79ce?w=518&h=941&f=gif&s=5112309)
+ 
  #### [点击链接查看效果,使用chrome 手机模式](http://p7qf6rbrj.bkt.clouddn.com/RedPacketRain.html).
 
 # Import using script tag
