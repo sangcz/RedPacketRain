@@ -31,4 +31,5 @@
 | rain.ajax()   |  类似jQuery中的$.ajax |
     
 # License
-MIT
+MIT 
+Copyright (c) 2018-present, Joy Sang
